@@ -13,6 +13,16 @@ st.set_page_config(
     layout="wide"
 )
 
+# Hide Streamlit toolbar, GitHub icon, and footer
+hide_st_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            [data-testid="stToolbar"] {visibility: hidden;}
+            </style>
+            """
+st.markdown(hide_st_style, unsafe_allow_html=True)
+
 # --- Load Data ---
 @st.cache_data(ttl=10)
 def load_data():

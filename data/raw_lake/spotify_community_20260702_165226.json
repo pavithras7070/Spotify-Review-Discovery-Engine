@@ -1,0 +1,502 @@
+[
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_1_0",
+        "title": "Spotify not playing on Android devices",
+        "text": "Spotify not playing on Android devices",
+        "kudos": 0,
+        "user_name": "Dessi",
+        "date": "2026-07-02T16:52:20.590062"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_1_1",
+        "title": "CarPlay shows the previous track's album artwork",
+        "text": "CarPlay shows the previous track's album artwork",
+        "kudos": 0,
+        "user_name": "Yordan",
+        "date": "2026-07-02T16:52:20.591088"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_1_2",
+        "title": "Downtime May 12th, 2026: Some services are down",
+        "text": "Downtime May 12th, 2026: Some services are down",
+        "kudos": 0,
+        "user_name": "OscarDC",
+        "date": "2026-07-02T16:52:20.591088"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_1_3",
+        "title": "Tracks skipping on desktop",
+        "text": "Tracks skipping on desktop",
+        "kudos": 0,
+        "user_name": "Maria",
+        "date": "2026-07-02T16:52:20.591088"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_1_4",
+        "title": "Google Cast/ Chromecast devices unavailable for Spotify Connect",
+        "text": "Google Cast/ Chromecast devices unavailable for Spotify Connect",
+        "kudos": 0,
+        "user_name": "Vasil",
+        "date": "2026-07-02T16:52:20.592092"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_1_5",
+        "title": "Downtime [Feb 14th 2026]: Android users getting an error when accessing playlists",
+        "text": "Downtime [Feb 14th 2026]: Android users getting an error when accessing playlists",
+        "kudos": 0,
+        "user_name": "MihailY",
+        "date": "2026-07-02T16:52:20.592092"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_1_6",
+        "title": "[Desktop] Home page not loading",
+        "text": "[Desktop] Home page not loading",
+        "kudos": 0,
+        "user_name": "Yordan",
+        "date": "2026-07-02T16:52:20.592092"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_1_7",
+        "title": "Saved tracks not showing up on DJ platforms",
+        "text": "Saved tracks not showing up on DJ platforms",
+        "kudos": 0,
+        "user_name": "MihailY",
+        "date": "2026-07-02T16:52:20.593097"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_1_8",
+        "title": "Basic plans Users are getting ads",
+        "text": "Basic plans Users are getting ads",
+        "kudos": 0,
+        "user_name": "AlejaR",
+        "date": "2026-07-02T16:52:20.593097"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_1_9",
+        "title": "Liked songs appear empty across devices",
+        "text": "Liked songs appear empty across devices",
+        "kudos": 0,
+        "user_name": "MihailY",
+        "date": "2026-07-02T16:52:20.593097"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_1_10",
+        "title": "[Android] Playlists not loading",
+        "text": "[Android] Playlists not loading",
+        "kudos": 0,
+        "user_name": "Maria",
+        "date": "2026-07-02T16:52:20.594104"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_1_11",
+        "title": "Autoplay/ Radio not working properly",
+        "text": "Autoplay/ Radio not working properly",
+        "kudos": 0,
+        "user_name": "Vasil",
+        "date": "2026-07-02T16:52:20.594104"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_1_12",
+        "title": "Playback stops after a track ends",
+        "text": "Playback stops after a track ends",
+        "kudos": 0,
+        "user_name": "Maria",
+        "date": "2026-07-02T16:52:20.594104"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_1_13",
+        "title": "\"Your Episodes\" can't be removed from Your Library",
+        "text": "\"Your Episodes\" can't be removed from Your Library",
+        "kudos": 0,
+        "user_name": "Maria",
+        "date": "2026-07-02T16:52:20.595195"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_1_14",
+        "title": "Shared playlists & audiobooks not working on Kids/Managed accounts",
+        "text": "Shared playlists & audiobooks not working on Kids/Managed accounts",
+        "kudos": 0,
+        "user_name": "Maria",
+        "date": "2026-07-02T16:52:20.595195"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_1_15",
+        "title": "Blank Now Playing view on iPad",
+        "text": "Blank Now Playing view on iPad",
+        "kudos": 0,
+        "user_name": "Yordan",
+        "date": "2026-07-02T16:52:20.595195"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_1_16",
+        "title": "Issues with Spotify services (login, subscription status, etc.)",
+        "text": "Issues with Spotify services (login, subscription status, etc.)",
+        "kudos": 0,
+        "user_name": "Vasil",
+        "date": "2026-07-02T16:52:20.596200"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_1_17",
+        "title": "Queue ignores genre filters in Liked Songs",
+        "text": "Queue ignores genre filters in Liked Songs",
+        "kudos": 0,
+        "user_name": "MihailY",
+        "date": "2026-07-02T16:52:20.596200"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_1_18",
+        "title": "Downtime June 16th: Spotify not loading or showing error messages",
+        "text": "Downtime June 16th: Spotify not loading or showing error messages",
+        "kudos": 0,
+        "user_name": "OscarDC",
+        "date": "2026-07-02T16:52:20.596200"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_1_19",
+        "title": "Search in \"Add to playlist\" menu not working",
+        "text": "Search in \"Add to playlist\" menu not working",
+        "kudos": 0,
+        "user_name": "Joan",
+        "date": "2026-07-02T16:52:20.597204"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_2_20",
+        "title": "Spotify not playing on Android devices",
+        "text": "Spotify not playing on Android devices",
+        "kudos": 0,
+        "user_name": "Dessi",
+        "date": "2026-07-02T16:52:23.311499"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_2_21",
+        "title": "CarPlay shows the previous track's album artwork",
+        "text": "CarPlay shows the previous track's album artwork",
+        "kudos": 0,
+        "user_name": "Yordan",
+        "date": "2026-07-02T16:52:23.311499"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_2_22",
+        "title": "Downtime May 12th, 2026: Some services are down",
+        "text": "Downtime May 12th, 2026: Some services are down",
+        "kudos": 0,
+        "user_name": "OscarDC",
+        "date": "2026-07-02T16:52:23.311499"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_2_23",
+        "title": "Tracks skipping on desktop",
+        "text": "Tracks skipping on desktop",
+        "kudos": 0,
+        "user_name": "Maria",
+        "date": "2026-07-02T16:52:23.311499"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_2_24",
+        "title": "Google Cast/ Chromecast devices unavailable for Spotify Connect",
+        "text": "Google Cast/ Chromecast devices unavailable for Spotify Connect",
+        "kudos": 0,
+        "user_name": "Vasil",
+        "date": "2026-07-02T16:52:23.311499"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_2_25",
+        "title": "Downtime [Feb 14th 2026]: Android users getting an error when accessing playlists",
+        "text": "Downtime [Feb 14th 2026]: Android users getting an error when accessing playlists",
+        "kudos": 0,
+        "user_name": "MihailY",
+        "date": "2026-07-02T16:52:23.312503"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_2_26",
+        "title": "[Desktop] Home page not loading",
+        "text": "[Desktop] Home page not loading",
+        "kudos": 0,
+        "user_name": "Yordan",
+        "date": "2026-07-02T16:52:23.312503"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_2_27",
+        "title": "Saved tracks not showing up on DJ platforms",
+        "text": "Saved tracks not showing up on DJ platforms",
+        "kudos": 0,
+        "user_name": "MihailY",
+        "date": "2026-07-02T16:52:23.312503"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_2_28",
+        "title": "Basic plans Users are getting ads",
+        "text": "Basic plans Users are getting ads",
+        "kudos": 0,
+        "user_name": "AlejaR",
+        "date": "2026-07-02T16:52:23.312503"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_2_29",
+        "title": "Liked songs appear empty across devices",
+        "text": "Liked songs appear empty across devices",
+        "kudos": 0,
+        "user_name": "MihailY",
+        "date": "2026-07-02T16:52:23.312503"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_2_30",
+        "title": "[Android] Playlists not loading",
+        "text": "[Android] Playlists not loading",
+        "kudos": 0,
+        "user_name": "Maria",
+        "date": "2026-07-02T16:52:23.313507"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_2_31",
+        "title": "Autoplay/ Radio not working properly",
+        "text": "Autoplay/ Radio not working properly",
+        "kudos": 0,
+        "user_name": "Vasil",
+        "date": "2026-07-02T16:52:23.313507"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_2_32",
+        "title": "Playback stops after a track ends",
+        "text": "Playback stops after a track ends",
+        "kudos": 0,
+        "user_name": "Maria",
+        "date": "2026-07-02T16:52:23.313507"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_2_33",
+        "title": "\"Your Episodes\" can't be removed from Your Library",
+        "text": "\"Your Episodes\" can't be removed from Your Library",
+        "kudos": 0,
+        "user_name": "Maria",
+        "date": "2026-07-02T16:52:23.313507"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_2_34",
+        "title": "Shared playlists & audiobooks not working on Kids/Managed accounts",
+        "text": "Shared playlists & audiobooks not working on Kids/Managed accounts",
+        "kudos": 0,
+        "user_name": "Maria",
+        "date": "2026-07-02T16:52:23.313507"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_2_35",
+        "title": "Blank Now Playing view on iPad",
+        "text": "Blank Now Playing view on iPad",
+        "kudos": 0,
+        "user_name": "Yordan",
+        "date": "2026-07-02T16:52:23.314512"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_2_36",
+        "title": "Issues with Spotify services (login, subscription status, etc.)",
+        "text": "Issues with Spotify services (login, subscription status, etc.)",
+        "kudos": 0,
+        "user_name": "Vasil",
+        "date": "2026-07-02T16:52:23.314512"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_2_37",
+        "title": "Queue ignores genre filters in Liked Songs",
+        "text": "Queue ignores genre filters in Liked Songs",
+        "kudos": 0,
+        "user_name": "MihailY",
+        "date": "2026-07-02T16:52:23.314512"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_2_38",
+        "title": "Downtime June 16th: Spotify not loading or showing error messages",
+        "text": "Downtime June 16th: Spotify not loading or showing error messages",
+        "kudos": 0,
+        "user_name": "OscarDC",
+        "date": "2026-07-02T16:52:23.315533"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_2_39",
+        "title": "Search in \"Add to playlist\" menu not working",
+        "text": "Search in \"Add to playlist\" menu not working",
+        "kudos": 0,
+        "user_name": "Joan",
+        "date": "2026-07-02T16:52:23.315533"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_3_40",
+        "title": "Spotify not playing on Android devices",
+        "text": "Spotify not playing on Android devices",
+        "kudos": 0,
+        "user_name": "Dessi",
+        "date": "2026-07-02T16:52:26.130085"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_3_41",
+        "title": "CarPlay shows the previous track's album artwork",
+        "text": "CarPlay shows the previous track's album artwork",
+        "kudos": 0,
+        "user_name": "Yordan",
+        "date": "2026-07-02T16:52:26.130085"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_3_42",
+        "title": "Downtime May 12th, 2026: Some services are down",
+        "text": "Downtime May 12th, 2026: Some services are down",
+        "kudos": 0,
+        "user_name": "OscarDC",
+        "date": "2026-07-02T16:52:26.130085"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_3_43",
+        "title": "Tracks skipping on desktop",
+        "text": "Tracks skipping on desktop",
+        "kudos": 0,
+        "user_name": "Maria",
+        "date": "2026-07-02T16:52:26.130085"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_3_44",
+        "title": "Google Cast/ Chromecast devices unavailable for Spotify Connect",
+        "text": "Google Cast/ Chromecast devices unavailable for Spotify Connect",
+        "kudos": 0,
+        "user_name": "Vasil",
+        "date": "2026-07-02T16:52:26.131089"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_3_45",
+        "title": "Downtime [Feb 14th 2026]: Android users getting an error when accessing playlists",
+        "text": "Downtime [Feb 14th 2026]: Android users getting an error when accessing playlists",
+        "kudos": 0,
+        "user_name": "MihailY",
+        "date": "2026-07-02T16:52:26.131089"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_3_46",
+        "title": "[Desktop] Home page not loading",
+        "text": "[Desktop] Home page not loading",
+        "kudos": 0,
+        "user_name": "Yordan",
+        "date": "2026-07-02T16:52:26.131089"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_3_47",
+        "title": "Saved tracks not showing up on DJ platforms",
+        "text": "Saved tracks not showing up on DJ platforms",
+        "kudos": 0,
+        "user_name": "MihailY",
+        "date": "2026-07-02T16:52:26.131089"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_3_48",
+        "title": "Basic plans Users are getting ads",
+        "text": "Basic plans Users are getting ads",
+        "kudos": 0,
+        "user_name": "AlejaR",
+        "date": "2026-07-02T16:52:26.132089"
+    },
+    {
+        "source": "spotify_community",
+        "board": "content",
+        "id": "sc_3_49",
+        "title": "Liked songs appear empty across devices",
+        "text": "Liked songs appear empty across devices",
+        "kudos": 0,
+        "user_name": "MihailY",
+        "date": "2026-07-02T16:52:26.132089"
+    }
+]

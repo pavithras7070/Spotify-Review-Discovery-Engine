@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Python virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary DBs (but EXCLUDE staging.db so it gets uploaded!)
+# We WANT staging.db to be tracked so Streamlit can read it.
+!data/staging.db
+data/*.sqlite
+data/*.db
+!data/staging.db
